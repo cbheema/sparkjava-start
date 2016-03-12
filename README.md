@@ -4,7 +4,7 @@ A Simple Project using Sparkjava - Microframework.
 
 # To get the code to localsystem
 
-git clone https://github.com/cbheema/sparkjava-quickstart.git
+git clone https://github.com/cbheema/sparkjava-start.git
 
 # To build
 
